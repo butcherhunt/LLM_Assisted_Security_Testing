@@ -1,0 +1,28 @@
+ai-appsec-automation-lab/
+│
+├── mcp-server/
+│   ├── server.py
+│   ├── .env.example
+│   └── requirements.txt
+│
+├── scans/
+│   ├── sast/
+│   ├── sca/
+│   ├── secrets/
+│   ├── dast/
+│   └── mobile/
+│
+├── reports/
+│   ├── json/
+│   ├── pdf/
+│   └── samples/
+│
+├── dashboard/
+│   └── app.py   (Streamlit)
+│
+├── docs/
+│   ├── architecture.png
+│   └── workflow.md
+│
+├── README.md
+└── .gitignore
